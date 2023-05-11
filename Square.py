@@ -1,0 +1,5 @@
+squareSide = input("Digite o valor correspondente ao lado de um quadrado:")
+tempsquare = (float(squareSide))
+x = (tempsquare * 4)
+y = (tempsquare * tempsquare)
+print("perímetro:", x,"-", "área:", y)
